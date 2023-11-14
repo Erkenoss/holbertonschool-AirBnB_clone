@@ -1,16 +1,14 @@
 .places {
     position: relative;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .places h1 {
     font-size: 30px;
     width: 100%;
-    text-align: center;
-    margin-top: 200px;
     position: relative;
 }
 
