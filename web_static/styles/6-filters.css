@@ -50,7 +50,6 @@ button:hover {
 
 .locations {
     border-right: 1px #DDDDDD;
-    line-height: 30%;
     border-right: 1px solid #DDDDDD;
 }
 
@@ -69,8 +68,7 @@ button:hover {
     display: block;
 }
 
-.locations .popover li,
-.amenities .popover li {
+.popover li {
     padding: 20px 0px 20px 0px;
 }
 
