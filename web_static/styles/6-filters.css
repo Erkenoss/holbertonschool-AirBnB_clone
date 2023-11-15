@@ -54,8 +54,7 @@ button:hover {
     border-right: 1px solid #DDDDDD;
 }
 
-.amenities .popover,
-.locations .popover {
+.popover {
     display: none;
 	list-style: none;
     border: 1px solid #DDDDDD;
